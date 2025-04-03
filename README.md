@@ -50,4 +50,4 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36" height="36" alt="Cursor" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menshikovv&theme=tokyonight	)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=menshikovv&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
