@@ -6,7 +6,6 @@
 - 🏆 **My grade** - Junior Frontend Developer  
 - 💻 **My experience** - 7 months  
 - 👦 **Age** - 15 y.o
-- 👅 **Language** - 🇺🇸 - B1, 🇨🇳 - HSK 3/4
 
 ## 🌑 Frontend Skills
 
