@@ -1,5 +1,3 @@
-# 💻 This is my world
-
 ## 🚀 Frontend Skills
 
 <p align="left">
@@ -24,6 +22,6 @@
 ## 🔗 Socials
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="36" height="36" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
 </p>
