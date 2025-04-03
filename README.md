@@ -5,7 +5,8 @@
 # Hi, I'm Matvey Menshikov
 - 🏆 **My grade** - Junior Frontend Developer  
 - 💻 **My experience** - 7 months  
-- 👦 **I have been programming since I was 13**
+- 👦 **Age** - 15 y.o
+- 👅 **Language** - 🇺🇸 - B1, 🇨🇳 - HSK 3/4
 
 ## 🌑 Frontend Skills
 
