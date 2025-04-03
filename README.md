@@ -45,7 +45,7 @@
 <p align="left">
     <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="36" height="36" alt="cpp" />
     <a href="https://codeforces.com/profile/menshikovv" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/768px-Codeforces_logo.svg.png?20200622150123" width="56" height="36" alt="Codeforces" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/768px-Codeforces_logo.svg.png?20200622150123" width="100" height="36" alt="Codeforces" />
     </a>
 </p>
 
