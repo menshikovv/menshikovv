@@ -50,4 +50,4 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36" height="36" alt="Cursor" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?menshikovv=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=menshikovv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
