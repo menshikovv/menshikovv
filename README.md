@@ -30,7 +30,7 @@
 ## 📌 Productivity & Tools
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/960px-Figma-logo.svg.png" width="36" height="36" alt="Figma" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" width="36" height="36" alt="Figma" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" width="36" height="36" alt="Adobe Premiere Pro" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Adobe Photoshop Pro" />
   <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="36" height="36" alt="Insomnia" />
