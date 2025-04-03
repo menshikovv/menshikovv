@@ -1,4 +1,4 @@
-# 💻 Menshikovv's Tech Stack
+# 💻 This is my world
 
 ## 🚀 Frontend Skills
 
