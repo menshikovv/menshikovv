@@ -2,6 +2,9 @@
   <img src="https://i.pinimg.com/originals/18/80/dd/1880dd84a6378ac2a249ddb4ea88663b.gif" alt="Gif">
 </p>
 
+## Hi, I'm Matvey Menshikov
+# Junior Frontend Developer
+
 ## 🌑 Frontend Skills
 
 <p align="left">
