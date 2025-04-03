@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/18/80/dd/1880dd84a6378ac2a249ddb4ea88663b.gif" alt="Gif">
 </p>
 
-## ✨ Frontend Skills
+## 🌑 Frontend Skills
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" />
@@ -12,7 +12,7 @@
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="36" height="36" alt="TailwindCSS" />
 </p>
 
-## ✨ Backend Skills
+## 🌑 Backend Skills
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" width="36" height="36" alt="NestJS" />
@@ -23,7 +23,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="36" height="36" alt="Docker" />
 </p>
 
-## ✨ Socials
+## 🌑 Socials
 
 <p align="left">
   <a href="https://t.me/+WZPy3Gq-02dhNGVi" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-## ✨ Productivity & Tools
+## 🌑 Productivity & Tools
 
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" width="36" height="36" alt="Figma" />
