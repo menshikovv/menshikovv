@@ -45,7 +45,7 @@
 <p align="left">
     <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="36" height="36" alt="cpp" />
     <a href="https://codeforces.com/profile/menshikovv" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/768px-Codeforces_logo.svg.png?20200622150123" width="36" height="36" alt="Codeforces" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/768px-Codeforces_logo.svg.png?20200622150123" width="56" height="36" alt="Codeforces" />
     </a>
 </p>
 
@@ -54,7 +54,7 @@
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" width="36" height="36" alt="Figma" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" width="36" height="36" alt="Adobe Premiere Pro" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" width="56" height="36" alt="Adobe Photoshop Pro" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Adobe Photoshop Pro" />
   <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="36" height="36" alt="Insomnia" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36" height="36" alt="Cursor" />
 </p>
