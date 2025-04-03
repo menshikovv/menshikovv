@@ -22,10 +22,18 @@
 ## 🔗 Socials
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" width="36" height="36" alt="Telegram" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png" width="36" height="36" alt="ВКонтакте" />
-  <img src="https://www.svgrepo.com/show/452114/tiktok.svg" width="36" height="36" alt="TikTok" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png?20230728155658" width="36" height="36" alt="Twitter" />
+  <a href="https://t.me/+WZPy3Gq-02dhNGVi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" width="36" height="36" alt="Telegram" />
+  </a>
+  <a href="https://vk.com/m.menshikovv" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png" width="36" height="36" alt="ВКонтакте" />
+  </a>
+  <a href="https://www.tiktok.com/@menshikovv11?_t=ZS-8txxJS37aNj&_r=1" target="_blank">
+    <img src="https://www.svgrepo.com/show/452114/tiktok.svg" width="36" height="36" alt="TikTok" />
+  </a>
+  <a href="https://x.com/menshikovv11" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png?20230728155658" width="36" height="36" alt="Twitter" />
+  </a>
 </p>
 
 ## 📌 Productivity & Tools
