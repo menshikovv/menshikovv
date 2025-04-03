@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/18/80/dd/1880dd84a6378ac2a249ddb4ea88663b.gif" alt="Gif">
 </p>
 
-# Hi, I'm Matvey Menshikov
+# Hi, I'm Matvey Menshikov 👋
 - 🏆 **My grade** - Junior Frontend Developer  
 - 💻 **My experience** - 7 months  
 - 👦 **Age** - 15 y.o
