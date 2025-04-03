@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
   <img src="https://mobx.js.org/assets/mobx.png" width="36" height="36" alt="MobX" />
-  <img src="https://mobx.js.org/assets/mobx.png" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="36" height="36" alt="TailwindCSS" />
 </p>
 
 ## 🛠 Backend Skills
