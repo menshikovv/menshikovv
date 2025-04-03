@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/88/6b/3a886b629549641b252111e72c197d9e.gif" alt="Gif">
+  <img src="https://i.pinimg.com/originals/18/80/dd/1880dd84a6378ac2a249ddb4ea88663b.gif" alt="Gif">
 </p>
 
 ## ✨ Frontend Skills
