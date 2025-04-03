@@ -22,6 +22,5 @@
 ## 🔗 Socials
 
 <p align="left">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="36" height="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="Twitter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png?20230728155658" width="36" height="36" alt="Twitter" />
 </p>
