@@ -50,4 +50,4 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="36" height="36" alt="Cursor" />
 </p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menshikovv&theme=radical
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menshikovv&theme=radical)
