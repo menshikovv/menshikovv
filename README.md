@@ -1,4 +1,6 @@
-![alt text](https://i.pinimg.com/originals/b5/0d/50/b50d502cf4c1de27e51df95dc435ed48.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b5/0d/50/b50d502cf4c1de27e51df95dc435ed48.gif" alt="Gif">
+</p>
 
 ## 🚀 Frontend Skills
 
