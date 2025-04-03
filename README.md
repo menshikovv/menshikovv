@@ -54,7 +54,7 @@
     </a>
 </p>
 
-## 🌑 Productivity & Tools
+## 🌑 Tools
 
 <p align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" width="36" height="36" alt="Figma" />
