@@ -3,9 +3,9 @@
 </p>
 
 # Hi, I'm Matvey Menshikov
-- **My grade** - Junior Frontend Developer  
-- **My experience** - 7 months  
-- **I have been programming since I was 13**
+- 🏆 **My grade** - Junior Frontend Developer  
+- 💻 **My experience** - 7 months  
+- 👦 **I have been programming since I was 13**
 
 ## 🌑 Frontend Skills
 
