@@ -4,7 +4,7 @@
 
 # Hi, I'm Matvey Menshikov 👋
 - 🏆 **My grade** - Junior Fullstack Developer  
-- 💻 **My experience** - 10 months  
+- 💻 **My experience** - 11 months  
 - 👦 **Age** - 15 y.o
 
 ## 🌑 Frontend Skills
