@@ -3,8 +3,8 @@
 </p>
 
 # Hi, I'm Matvey Menshikov 👋
-- 🏆 **My grade** - Junior Fullstack Developer  
-- 💻 **My experience** - 12 months  
+- 🏆 **My grade** - Junior Fullstack Developer  / Middle Frontend Developer / Junior Backend Developer
+- 💻 **My experience** - 1 year
 - 👦 **Age** - 15 y.o
 
 ## 🌑 Frontend Skills
